@@ -1,0 +1,10 @@
+e:\source\repos\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+e:\source\repos\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+e:\source\repos\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+e:\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+e:\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+e:\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+E:\source\repos\ConsoleApp\ConsoleApp\bin\Debug\Nancy.dll
+E:\source\repos\ConsoleApp\ConsoleApp\bin\Debug\Nancy.xml
+E:\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+E:\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
